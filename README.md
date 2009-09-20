@@ -17,8 +17,8 @@ This should give something like:
 
 ## To read opinions.csv and output to the screen:
 
-    ruby to_xml.rb opinions.csv
+    ruby csv2xml.rb opinions.csv
     
 ## To output to a file called opinions.xml:
 
-    ruby to_xml.rb opinions.csv > opinions.xml
+    ruby csv2xml.rb opinions.csv > opinions.xml
